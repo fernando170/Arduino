@@ -20,16 +20,17 @@ tación fueron utilizados:
 Adjunto algunas fotografías útiles, así como la configuración de 
 los pines, como lo indica el código, las referencias se encuentran
 en:
-	* https://create.arduino.cc/projecthub [ARDUINO CREATE](https://create.arduino.cc/projecthub)
+	* https://create.arduino.cc/projecthub
 	* http://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
 	* https://hetpro-store.com/TUTORIALES/sensor-dht11/
 
 ## Imagenes
-Sensor DHT11 en placa implemntado.
+### Sensor DHT11 en placa implemntado.
+
 ![Sensor DHT11](./DHT11.png)
 
-Display de Cristal Líquido similar al implementado, solo se tiene
-que omitir los últimos dos pines de alimentación del led.
+### Display de Cristal Líquido similar al implementado, solo se tiene que omitir los últimos dos pines de alimentación del led.
+
 ![Display de Cristal Líquido](./LCDwithBackgroundLight.png)
 
 P.D.:Solo generé este código con la intención de ejemplificar,
