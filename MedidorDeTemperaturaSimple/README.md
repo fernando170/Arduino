@@ -1,4 +1,4 @@
-#Sistema de medición de Temperatura con LCD
+#Sistema de medición de Temperatura con LCD#
 Como es básico dentro de cualquier lugar en el que nos encontramos 
 medir la temperatura del ambiente así como de su humedad relativa
 para diversos propósitos o como un simple entretenimiento, creé de
@@ -20,19 +20,22 @@ tación fueron utilizados:
 Adjunto algunas fotografías útiles, así como la configuración de 
 los pines, como lo indica el código, las referencias se encuentran
 en:
-	* https://create.arduino.cc/projecthub
-	* http://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
-	* https://hetpro-store.com/TUTORIALES/sensor-dht11/
+	° https://create.arduino.cc/projecthub
+	° http://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
+	° https://hetpro-store.com/TUTORIALES/sensor-dht11/
 
-##Imagenes
-![Sensor DHT11](/DHT11.jpg)
-![Display de Cristal Líquido](/LCDwithBackgroundLight.jpg)
+##Imagenes##
+![Sensor DHT11](/DHT11.png)
+Sensor DHT11 en placa implemntado.
+![Display de Cristal Líquido](/LCDwithBackgroundLight.png)
+Display de Cristal Líquido similar al implementado, solo se tiene
+que omitir los últimos dos pines de alimentación del led.
 
 P.D.:Solo generé este código con la intención de ejemplificar,
 queda libre su modificación para ser implementado con otros 
 actuadores.
 
-##Licenciamiento
+##Licenciamiento##
 El planteamiento de tareas, ejercicios y actividades que forman parte
 de este repositorio, así como sus resoluciones, están amparadas por la
 licencia _Creative Commons Attribution 4.0 International_
