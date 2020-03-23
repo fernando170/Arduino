@@ -25,22 +25,19 @@ en:
 	* https://hetpro-store.com/TUTORIALES/sensor-dht11/
 
 ## Imagenes
-![Sensor DHT11](./DHT11.png)
-
 Sensor DHT11 en placa implemntado.
-![Display de Cristal Líquido](./LCDwithBackgroundLight.png)
+![Sensor DHT11](./DHT11.png)
 
 Display de Cristal Líquido similar al implementado, solo se tiene
 que omitir los últimos dos pines de alimentación del led.
+![Display de Cristal Líquido](./LCDwithBackgroundLight.png)
 
 P.D.:Solo generé este código con la intención de ejemplificar,
 queda libre su modificación para ser implementado con otros 
 actuadores.
 
-##Licenciamiento##
-El planteamiento de tareas, ejercicios y actividades que forman parte
-de este repositorio, así como sus resoluciones, están amparadas por la
-licencia _Creative Commons Attribution 4.0 International_
+## Licenciamiento
+_Creative Commons Attribution 4.0 International_
 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
 ![CC BY 4.0](./CCBY4.0_88x31.png "CC BY 4.0")
