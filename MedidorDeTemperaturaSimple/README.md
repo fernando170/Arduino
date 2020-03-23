@@ -20,7 +20,7 @@ tación fueron utilizados:
 Adjunto algunas fotografías útiles, así como la configuración de 
 los pines, como lo indica el código, las referencias se encuentran
 en:
-	* https://create.arduino.cc/projecthub
+	* https://create.arduino.cc/projecthub [ARDUINO CREATE](https://create.arduino.cc/projecthub)
 	* http://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
 	* https://hetpro-store.com/TUTORIALES/sensor-dht11/
 
